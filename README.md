@@ -1,8 +1,14 @@
 # 👋 Olá! Eu sou Bruno Garcia
 
+<div align="center">
+
+<img src="https://github.com/bGarcia80.png" width="160" alt="Foto de perfil de Bruno Garcia" style="border-radius: 50%;">
+
 **Desenvolvedor em formação | Apaixonado por tecnologia, programação e criatividade**
 
 *Transformando ideias em projetos e aprendizados em código.* 💻
+
+</div>
 
 ---
 
@@ -59,6 +65,18 @@ Estou construindo minha jornada na programação, explorando diferentes linguage
 - 🧠 Aprender novas tecnologias e ferramentas.
 - 🚀 Criar projetos criativos, funcionais e cada vez mais completos.
 - 💼 Construir meu portfólio e minha experiência na área de tecnologia.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bGarcia80&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bGarcia80&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+
+</div>
 
 ---
 
